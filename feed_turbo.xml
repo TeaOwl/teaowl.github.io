@@ -62,8 +62,8 @@
 
 <!--more-->
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Мысли о вечном" src="/assets/imgs/posts/2018-10-22-story.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Мысли о вечном" src="/assets/imgs/posts/2018-10-22-story.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Mon, 22 Oct 2018 00:00:00 +0300</pubDate>
@@ -111,8 +111,8 @@
 
 <p>«Взгляни на нас: мы же — венец творения».</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Мысли о сознании и ИИ" src="/assets/imgs/posts/2018-09-01-ii2.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Мысли о сознании и ИИ" src="/assets/imgs/posts/2018-09-01-ii2.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Sat, 01 Sep 2018 00:00:00 +0300</pubDate>
@@ -146,8 +146,8 @@
 
 <p>Добро пожаловать в пустыню… зомби.</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Мысли о сознании и ИИ" src="/assets/imgs/posts/2018-08-28-ii1.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Мысли о сознании и ИИ" src="/assets/imgs/posts/2018-08-28-ii1.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 28 Aug 2018 00:00:00 +0300</pubDate>
@@ -169,8 +169,8 @@
 
 <p><em>С философской точки зрения отсутствуют веские доказательства существования единого, определенного, независимого от культурной среды, теорий и описаний состояния сознания, называемого «просветлением»… только несколько миллионов человек из богатых западных стран точно знают, что такое просветление, потому что удовлетворяют свои эмоциональные потребности в книжных лавках, специализирующихся по нью-эйдж литературе, и эксплуатируют духовные традиции чужих культур.</em></p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="В воскресенье у Будды выходной" src="/assets/imgs/posts/2018-08-25-buddha.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="В воскресенье у Будды выходной" src="/assets/imgs/posts/2018-08-25-buddha.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Sat, 25 Aug 2018 00:00:00 +0300</pubDate>
@@ -218,8 +218,8 @@
 
 <p>— Незачем тебе вторые, для начала перестань пользоваться четками других послушников.</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Гидры тоже видят сны" src="/assets/imgs/posts/2018-08-23-story.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Гидры тоже видят сны" src="/assets/imgs/posts/2018-08-23-story.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Thu, 23 Aug 2018 00:00:00 +0300</pubDate>
@@ -249,8 +249,8 @@
 <p>И тут мы оба поняли, в чем дело. Угорь видел сон.
 В наших снах мы, люди, переживаем самый интимный и таинственный опыт. “Когда люди бодрствуют, все они пребывают в одном и том же мире, - писал Плутарх. - Но во сне каждый человек попадает в свое уникальное пространство”. Если мы не можем проникнуть в царство снов других людей, насколько недоступнее для нас мир снов животных?</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Гидры тоже видят сны" src="/assets/imgs/posts/2018-07-03-octo.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Гидры тоже видят сны" src="/assets/imgs/posts/2018-07-03-octo.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 03 Jul 2018 00:00:00 +0300</pubDate>
@@ -296,8 +296,8 @@
 
 <!--more-->
 
-<p class="db tc">
-    <img alt="кадр из Призрака в доспехах" src="/assets/imgs/posts/2018-04-05-Dhammapada.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" alt="кадр из Призрака в доспехах" src="/assets/imgs/posts/2018-04-05-Dhammapada.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Thu, 05 Apr 2018 00:00:00 +0300</pubDate>
@@ -321,8 +321,8 @@
 
 <!--more-->
 
-<p class="db tc">
-    <img alt="кадр из фильма Пираты Карибского моря" src="/assets/imgs/posts/2018-03-27-Irvin-Yalom.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" alt="кадр из фильма Пираты Карибского моря" src="/assets/imgs/posts/2018-03-27-Irvin-Yalom.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 27 Mar 2018 00:00:00 +0300</pubDate>
@@ -348,8 +348,8 @@
 
 <p>На основе результатов, полученных при исследовании людей с “расщепленным мозгом” и данных так называемой палеопсихологии, Дж. Джейнсом была высказана очень интересная, хотя и спекулятивная, гипотеза о бикамеральном мышлении, или бикамеральном разуме. Он полагает, что сознание в современном понимании этого понятия появилось у человека всего около 3000 лет назад, когда стала развиваться письменная речь. Несколько тысяч лет назад у человека не были столь хорошо развиты функции интерпретационной коры левого полушария, и оба полушария могли действовать более независимо друг от друга, чем у человека наших дней. Речь у древнего человека, генерируемая правым полушарием, воспринималась левым полушарием, но она вследствие недостаточно развитого самоанализа, осознания своего “Я” как источника “слышимых” слов, интерпретировались им как “глас божий”. Вспомним древних пророков, так красочно описанных в Библии. Согласно привлекательной гипотезе Джейнса, которую, к сожалению, трудно проверить экспериментально, конец бикамеральному мышлению пришел в результате развития письменности и культуры где-то около VII в. до н.э. - из учебника “Психофизиология” под ред. Александрова Ю.И., стр. 231</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
@@ -392,8 +392,8 @@
 
 <p>Двухпалатный разум (bicameral mind) - психика ранних времен, времен Илиады. Человеческая я психика в те времена состояла из двух частей: части, принимающей решения, и ведомой части; и ни одна из них не была сознательной в том смысле, в котором определяется сознание.</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" class="w-60-ns" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
@@ -445,8 +445,8 @@
 – Подавление (suppression), с помощью которого мы перестаем осознавать досаждающие нам вещи - аналог ухода от раздражителей в физическом мире.<br />
 – Исключение (excerption) - аналог того, как мы ощущаем только один аспект вещи в момент времени.</p>
 
-<p class="db tc">
-    <img class="w-60-ns" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img class="w-60-ns" itemprop="contentUrl" alt="Джулиан Джейнс. Сознание и голос разума" src="/assets/imgs/posts/2018-03-13-Julian-Jaynes.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Tue, 13 Mar 2018 00:00:00 +0300</pubDate>
@@ -508,8 +508,8 @@
 
 <p>Я вышел, на четыре стороны принес я жертву, на алтаре совершил воскуренье: Семь и семь поставил курильниц, В их чашки наломал я мирта, тростника и кедра… Боги остались глухи к моим призывам… Постойте, нет же. Что я вижу, слава могучим богам-вседержителям! Начался дождь!</p>
 
-<p class="db tc">
-    <img alt="Начался дождь!" src="/assets/imgs/posts/2018-03-11-water.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" alt="Начался дождь!" src="/assets/imgs/posts/2018-03-11-water.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Sun, 11 Mar 2018 00:00:00 +0300</pubDate>
@@ -535,8 +535,8 @@
 
 <p>— размышления Роберта де ла Грив Поццо да Сан Патрицио в книге Умберто Эко «Остров накануне»</p>
 
-<p class="db tc">
-    <img alt="если так, это значит, что и камни мыслят" src="/assets/imgs/posts/2018-03-11-stone.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" alt="если так, это значит, что и камни мыслят" src="/assets/imgs/posts/2018-03-11-stone.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Sun, 11 Mar 2018 00:00:00 +0300</pubDate>
@@ -560,8 +560,8 @@
 
 <!--more-->
 
-<p class="db tc">
-    <img alt="если так, это значит, что и камни мыслят" src="/assets/imgs/posts/2018-03-11-eco.jpg" />
+<p class="db tc" itemscope="" itemtype="http://schema.org/ImageObject">
+    <img itemprop="contentUrl" alt="если так, это значит, что и камни мыслят" src="/assets/imgs/posts/2018-03-11-eco.jpg" />
 </p>
 ]]></turbo:content>
 				<pubDate>Sun, 11 Mar 2018 00:00:00 +0300</pubDate>
