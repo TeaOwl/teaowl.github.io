@@ -12,7 +12,7 @@
                     https://arutokoroni.blog/feed_turbo.xml
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -31,7 +31,7 @@
                     https://arutokoroni.blog/search
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -49,10 +49,27 @@
         
             <url>
                 <loc>
+                    https://arutokoroni.blog/languages/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
                     https://arutokoroni.blog/notes/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -69,7 +86,7 @@
                     https://arutokoroni.blog/notes/2/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -86,7 +103,7 @@
                     https://arutokoroni.blog/tags/мысли/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -100,61 +117,10 @@
         
             <url>
                 <loc>
-                    https://arutokoroni.blog/tags/переводы/
+                    https://arutokoroni.blog/tags/мысли/2/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
-                
-                
-                    <changefreq>monthly</changefreq>
-                
-                
-                    <priority>0.3</priority>
-                
-            </url>
-        
-    
-        
-            <url>
-                <loc>
-                    https://arutokoroni.blog/
-                </loc>
-                
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
-                
-                
-                    <changefreq>monthly</changefreq>
-                
-                
-                    <priority>0.3</priority>
-                
-            </url>
-        
-    
-        
-            <url>
-                <loc>
-                    https://arutokoroni.blog/all/2/
-                </loc>
-                
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
-                
-                
-                    <changefreq>monthly</changefreq>
-                
-                
-                    <priority>0.3</priority>
-                
-            </url>
-        
-    
-        
-            <url>
-                <loc>
-                    https://arutokoroni.blog/all/3/
-                </loc>
-                
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -171,7 +137,7 @@
                     https://arutokoroni.blog/books/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -188,7 +154,24 @@
                     https://arutokoroni.blog/books/books/2/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
+                    https://arutokoroni.blog/tags/переводы/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -205,7 +188,7 @@
                     https://arutokoroni.blog/tags/цитаты/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -222,7 +205,75 @@
                     https://arutokoroni.blog/tags/цитаты/2/
                 </loc>
                 
-                    <lastmod>2021-09-07T15:28:23+03:00</lastmod>
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
+                    https://arutokoroni.blog/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
+                    https://arutokoroni.blog/all/2/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
+                    https://arutokoroni.blog/all/3/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
+                
+                
+                    <changefreq>monthly</changefreq>
+                
+                
+                    <priority>0.3</priority>
+                
+            </url>
+        
+    
+        
+            <url>
+                <loc>
+                    https://arutokoroni.blog/all/4/
+                </loc>
+                
+                    <lastmod>2021-09-08T02:13:28+03:00</lastmod>
                 
                 
                     <changefreq>monthly</changefreq>
@@ -555,9 +606,54 @@
         
             
                 <url>
+                    <loc>https://arutokoroni.blog/2019/08/classification</loc>
+                    
+                        <lastmod>2019-08-19T00:00:00+03:00</lastmod>
+                    
+                    
+                        <changefreq>monthly</changefreq>
+                    
+                    
+                        <priority>0.5</priority>
+                    
+                </url>
+            
+        
+            
+                <url>
                     <loc>https://arutokoroni.blog/2019/08/inuit</loc>
                     
                         <lastmod>2019-08-22T00:00:00+03:00</lastmod>
+                    
+                    
+                        <changefreq>monthly</changefreq>
+                    
+                    
+                        <priority>0.5</priority>
+                    
+                </url>
+            
+        
+            
+                <url>
+                    <loc>https://arutokoroni.blog/2019/08/australia</loc>
+                    
+                        <lastmod>2019-08-25T00:00:00+03:00</lastmod>
+                    
+                    
+                        <changefreq>monthly</changefreq>
+                    
+                    
+                        <priority>0.5</priority>
+                    
+                </url>
+            
+        
+            
+                <url>
+                    <loc>https://arutokoroni.blog/2019/08/books</loc>
+                    
+                        <lastmod>2019-08-31T00:00:00+03:00</lastmod>
                     
                     
                         <changefreq>monthly</changefreq>
