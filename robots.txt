@@ -1,0 +1,4 @@
+User-agent: *
+Host: arutokoroni.blog
+Sitemap: https://arutokoroni.blog/sitemap.xml
+Allow: /
