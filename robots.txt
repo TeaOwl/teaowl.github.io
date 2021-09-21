@@ -2,3 +2,4 @@ User-agent: *
 Host: arutokoroni.blog
 Sitemap: https://arutokoroni.blog/sitemap.xml
 Allow: /
+Disallow: /404.html
